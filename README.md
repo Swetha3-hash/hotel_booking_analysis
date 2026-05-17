@@ -7,7 +7,7 @@ cancellation drivers and provides actionable
 business recommendations.
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Numpy)
 - MySQL Workbench
 - Power BI
 
